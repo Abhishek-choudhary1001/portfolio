@@ -9,12 +9,12 @@ const Experience = ({ darkMode }) => {
           className="achievement-circle"
           style={{ color: darkMode ? "#fca311" : "#333" }}
         >
-          8+
+          1
         </div>
         <span className="achievement-label" style={{ color: darkMode ? "#fff" : "#555" }}>
-          Years
+          Year
         </span>
-        <span className="achievement-title">Experience</span>
+        <span className="achievement-title">Experience with projects</span>
       </div>
 
       <div className="achievement">
@@ -22,7 +22,7 @@ const Experience = ({ darkMode }) => {
           className="achievement-circle"
           style={{ color: darkMode ? "#fca311" : "#333" }}
         >
-          20+
+          50+
         </div>
         <span className="achievement-label" style={{ color: darkMode ? "#fff" : "#555" }}>
           Completed
@@ -34,12 +34,12 @@ const Experience = ({ darkMode }) => {
           className="achievement-circle"
           style={{ color: darkMode ? "#fca311" : "#333" }}
         >
-          5+
+          2
         </div>
         <span className="achievement-label" style={{ color: darkMode ? "#fff" : "#555" }}>
           Companies
         </span>
-        <span className="achievement-title">Work</span>
+        <span className="achievement-title">Work as an internship</span>
       </div>
     </div>
   );
